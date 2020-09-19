@@ -95,8 +95,7 @@ def action():
 		print '[!] Fill in correctly'
 		action()
 	def FreakedDudex():
-	os.system('clear')
-	print logo2
+        print logo2
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[1]  Bangladesh\033[1;91m☆.\x1b[1;96m[14]  Australia'
         time.sleep(0.05)
 	print '\033[1;93m-•◈•-\033[1;97m> \033[1;91m☆.\x1b[1;96m[2]  U.S.A       \033[1;91m☆.\x1b[1;96m[15]  Canada'
